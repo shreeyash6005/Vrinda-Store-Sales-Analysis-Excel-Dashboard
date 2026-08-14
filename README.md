@@ -1,5 +1,5 @@
 # Vrinda-Store-Sales-Analysis-Excel-Dashboard
-Project Objective
+Project Objectives
 
 The objective of this project was to analyze Vrinda Store's sales data and generate meaningful business insights using Microsoft Excel. The analysis helps identify sales trends, customer behavior, top-performing states, sales channels, and order performance to support data-driven business decisions.
 
